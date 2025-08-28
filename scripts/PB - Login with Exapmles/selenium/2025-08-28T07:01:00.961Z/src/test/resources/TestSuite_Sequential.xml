@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Conformiq Sequential Test Suite" parallel="none" thread-count="1">
+    <test name="Conformiq Sequential Test Suite">
+        <classes>
+      <class name="com.conformiq.conformiq_automation3x.testsuite.Test_User_gets_error" />
+      <class name="com.conformiq.conformiq_automation3x.testsuite.Test_User_gets_error" />
+      <class name="com.conformiq.conformiq_automation3x.testsuite.Test_User_gets_error" />
+      <class name="com.conformiq.conformiq_automation3x.testsuite.Test_User_gets_error" />
+      <class name="com.conformiq.conformiq_automation3x.testsuite.Test_User_logs_in_successfully" />
+      <class name="com.conformiq.conformiq_automation3x.testsuite.Test_User_logs_in_successfully" />
+      <class name="com.conformiq.conformiq_automation3x.testsuite.Test_User_logs_in_successfully" />
+      <class name="com.conformiq.conformiq_automation3x.testsuite.Test_User_logs_in_successfully" />
+        </classes>
+    </test>
+</suite>
